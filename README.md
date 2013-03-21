@@ -1,7 +1,7 @@
-twitter.github.com
+bluemountaincapital.github.com
 ======
 
-The source code of http://twitter.github.com/
+The source code of http://bluemountaincapital.github.com/
 
 LICENSE
 ------------
